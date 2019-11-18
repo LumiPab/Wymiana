@@ -1,0 +1,51 @@
+#normalText {
+    font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: #000000;
+    font-weight: 400;
+    font-variant: normal;
+    font-style: normal;
+    }
+
+#titleFont {
+    font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 22pt;
+    color: #000000;
+    font-weight: 800;
+    font-style: normal;
+    font-variant: normal;
+    }
+        
+body {
+    margin-left: 50px;
+    margin-top: 50px;
+    }
+    
+td, th { 
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px dotted #9E9E9E;
+    padding: 2px;
+    font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    position: relative;
+}
+
+th { 
+    color:white;
+    background-color:black;
+    }
+
+table {
+    width: 80%;
+    margin: 2px ;
+    }
+
+td, tr, th {
+    width: 50%;
+    padding: 4px;
+    margin: 2px ;
+    white-space:pre;
+    }
+
