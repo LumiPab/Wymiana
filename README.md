@@ -1,0 +1,2 @@
+# Wymiana
+Wymiana komputerów
